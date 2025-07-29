@@ -19,3 +19,24 @@ h3{
   margin-top: 10px;
   margin-bottom: -5px;
 }
+.head{
+  display: flex;
+  flex-direction: row;
+  justify-content:flex-end;
+  gap: 40px;
+  
+  margin-top: 10px;
+  padding: 10px;
+  
+  background-color: #333;
+  color: white;
+  margin-top: 0px;
+
+
+}
+* {
+  margin: 0;
+  padding: 0;
+  
+
+}
