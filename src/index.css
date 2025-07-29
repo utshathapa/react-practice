@@ -1,0 +1,21 @@
+.container{
+  margin: 50px;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 20px;
+  align-items: center;
+  padding: 0px;
+  text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.658);
+}
+img{
+  border-radius: 20px;
+   width: 250px;
+  height: 250px;
+  
+  
+}
+h3{
+  margin-top: 10px;
+  margin-bottom: -5px;
+}
